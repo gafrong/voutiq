@@ -37,6 +37,7 @@ body {
 .tag {
     text-decoration: none;
     color: #777777;
+    font-size: 14px;
 }
 
 .canvas {
