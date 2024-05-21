@@ -144,5 +144,6 @@ ul li::before {
 
     .full {
         width: 100%;
+        padding-top: 30px;
     }
 }
