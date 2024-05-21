@@ -83,6 +83,23 @@
             &copy; 2024 VOUTIQ. All rights reserved.
         </div>
     </div>
+
+    <script>
+        function checkScreenWidth() {
+            const canvasElement = document.querySelector('.canvas');
+            if (window.innerWidth <= 767) {
+                canvasElement.classList.remove('canvas');
+            } else {
+                canvasElement.classList.add('canvas');
+            }
+        }
+
+        // Check on page load
+        checkScreenWidth();
+
+        // Check on window resize
+        window.addEventListener('resize', checkScreenWidth);
+    </script>
 </body>
 
 </html>
