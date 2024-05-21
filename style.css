@@ -141,4 +141,8 @@ ul li::before {
     .logo {
         padding-top: 80px;
     }
+
+    .full {
+        width: 100%;
+    }
 }
