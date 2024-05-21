@@ -130,6 +130,8 @@ ul li::before {
 @media (max-width: 767px) {
     .hide-on-mobile {
         text-align: center;
+        position: relative;
+        top: 110px;
     }
 
     .main-area {
