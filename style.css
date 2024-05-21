@@ -136,6 +136,7 @@ ul li::before {
 
     .main-area {
         margin-left: 0px;
+        padding-bottom: 100px;
     }
 
     .logo {
