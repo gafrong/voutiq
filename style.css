@@ -131,7 +131,6 @@ ul li::before {
     .hide-on-mobile {
         text-align: center;
         position: relative;
-        top: 110px;
     }
 
     .main-area {
