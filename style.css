@@ -148,3 +148,9 @@ ul li::before {
         padding-top: 30px;
     }
 }
+
+@media (min-width: 767px) {
+    .desktop {
+        height: 100vh;
+    }
+}
