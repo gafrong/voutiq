@@ -131,13 +131,17 @@ ul li::before {
 
 .card-style {
     margin-right: 2em;
-    padding: 0;
     margin-bottom: 30px;
+    padding: 0px;
 }
 
 .space {
     padding: 10px;
     padding-bottom: 50px;
+}
+
+.row {
+    padding: 0px;
 }
 
 @media (max-width: 767px) {
