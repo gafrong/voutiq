@@ -1,5 +1,6 @@
 body {
     background: #ffffff url(../images/bg.gif) center top repeat-x;
+    padding: 10px;
 }
 
 .mobile-container {
@@ -84,6 +85,7 @@ body {
 .about-section {
     text-align: left;
     margin-bottom: 20px;
+    margin-top: 50px;
 }
 
 .company-logo {
@@ -94,7 +96,7 @@ body {
 .mission-section,
 .team-section,
 .contact-section {
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 
 /* Sections */
@@ -125,6 +127,17 @@ ul li::before {
     display: inline-block;
     width: 1em;
     margin-left: -1em;
+}
+
+.card-style {
+    margin-right: 2em;
+    padding: 0;
+    margin-bottom: 30px;
+}
+
+.space {
+    padding: 10px;
+    padding-bottom: 30px;
 }
 
 @media (max-width: 767px) {
