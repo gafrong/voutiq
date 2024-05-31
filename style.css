@@ -137,7 +137,7 @@ ul li::before {
 
 .space {
     padding: 10px;
-    padding-bottom: 30px;
+    padding-bottom: 50px;
 }
 
 @media (max-width: 767px) {
