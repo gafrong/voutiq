@@ -55,6 +55,11 @@ body {
     color: #777777;
     font-size: 12px;
 }
+.address {
+    color: #777777;
+    font-size: 12px;
+    padding-bottom: 30px;
+}
 .copyright {
     padding-bottom: 30px;
     color: #777777;
