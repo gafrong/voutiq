@@ -32,7 +32,8 @@ body {
 }
 
 .footer {
-    padding-bottom: 30px;
+    padding-bottom: 60px;
+    margin-bottom: 30px;
 }
 
 .tag {
@@ -50,7 +51,10 @@ body {
     max-width: 210px;
     padding-top: 180px;
 }
-
+.company {
+    color: #777777;
+    font-size: 12px;
+}
 .copyright {
     padding-bottom: 30px;
     color: #777777;
